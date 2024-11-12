@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/presupuesto-odontologico/static/css/main.bf93e4e8.css",
+    "main.js": "/presupuesto-odontologico/static/js/main.7c7669b7.js",
+    "static/js/213.8e13939a.chunk.js": "/presupuesto-odontologico/static/js/213.8e13939a.chunk.js",
+    "static/js/732.dd029dc3.chunk.js": "/presupuesto-odontologico/static/js/732.dd029dc3.chunk.js",
+    "static/js/453.5511a9d0.chunk.js": "/presupuesto-odontologico/static/js/453.5511a9d0.chunk.js",
+    "index.html": "/presupuesto-odontologico/index.html",
+    "main.bf93e4e8.css.map": "/presupuesto-odontologico/static/css/main.bf93e4e8.css.map",
+    "main.7c7669b7.js.map": "/presupuesto-odontologico/static/js/main.7c7669b7.js.map",
+    "213.8e13939a.chunk.js.map": "/presupuesto-odontologico/static/js/213.8e13939a.chunk.js.map",
+    "732.dd029dc3.chunk.js.map": "/presupuesto-odontologico/static/js/732.dd029dc3.chunk.js.map",
+    "453.5511a9d0.chunk.js.map": "/presupuesto-odontologico/static/js/453.5511a9d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf93e4e8.css",
+    "static/js/main.7c7669b7.js"
+  ]
+}
